@@ -1,0 +1,14 @@
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+.darkshadow
+{
+   background-color:#CDC8B1;
+   width: 550px;
+   padding: 10px;
+   
+   box-shadow: 10px 10px 15px #000;
+   -webkit-box-shadow: 10px 10px 15px #000;
+   -moz-box-shadow: 10px 10px 15px #000;
+}
+
